@@ -1,3 +1,5 @@
+I Forked this library in order to find out if I can use it with SIM808 that I got from Adafruit. I have not started working on it yet but I plan to have a first release by the end of May 2017. 
+
 # SIM800_MQTT
 
 #AutoConnect CallBack function
